@@ -1,0 +1,4 @@
+model_checkpoint_path: "faces.ckpt-12"
+all_model_checkpoint_paths: "faces.ckpt-7"
+all_model_checkpoint_paths: "faces.ckpt-10"
+all_model_checkpoint_paths: "faces.ckpt-12"
